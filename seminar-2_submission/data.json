@@ -1,0 +1,1575 @@
+{
+	"festival": {
+		"identity": {
+			"name": "Prague Dreamland Festival",
+			"edition": "1",
+			"location": {
+				"city": "Prague",
+				"country": "Czech Republic"
+			},
+			"dates": {
+				"_start": "2026-07-24",
+				"_end": "2026-07-26",
+				"_days": "3"
+			},
+			"theme": "Fantasy Dream World (Tomorrowland-inspired)",
+			"genres": {
+				"genre": [
+					"EDM",
+					"House",
+					"Techno",
+					"Trance",
+					"Drum & Bass",
+					"Hardstyle"
+				]
+			},
+			"description": "Prague Dreamland Festival 2026 is a 3-day immersive fantasy-themed electronic music event set in the heart of Prague. Blending dream-world storytelling with spectacular stage design, large-scale visuals, daily fireworks, and top international & local artists across EDM, House, Techno, Trance, Drum & Bass and Hardstyle.",
+			"tickets": {
+				"standard": "1500 CZK",
+				"vip": "3500 CZK",
+				"earlyBird": "1200 CZK"
+			},
+			"links": {
+				"link": [
+					"https://www.praguedreamland.cz",
+					"https://instagram.com/praguedreamland"
+				]
+			}
+		},
+		"venues": {
+			"venue": [
+				{
+					"name": "Mainstage - Astral Gate",
+					"type": "Outdoor Stage",
+					"capacity": "20000",
+					"area": "Letna Park",
+					"address": {
+						"city": "Prague",
+						"postalCode": "170 00",
+						"country": "Czech Republic"
+					},
+					"facilities": {
+						"facility": [
+							"Food Court",
+							"Merch Booth",
+							"First Aid",
+							"Water Refill"
+						]
+					},
+					"_id": "v1"
+				},
+				{
+					"name": "Underground Stage - Neon Cave",
+					"type": "Indoor Stage",
+					"capacity": "8000",
+					"area": "Holesovice",
+					"address": {
+						"city": "Prague",
+						"postalCode": "170 00",
+						"country": "Czech Republic"
+					},
+					"facilities": {
+						"facility": [
+							"Bar",
+							"Lockers",
+							"First Aid",
+							"Rest Area"
+						]
+					},
+					"_id": "v2"
+				}
+			]
+		},
+		"performers": {
+			"performer": [
+				{
+					"name": "Lunar Pulse",
+					"role": "DJ",
+					"country": "Belgium",
+					"tags": {
+						"tag": [
+							"EDM",
+							"Progressive House"
+						]
+					},
+					"_id": "p001"
+				},
+				{
+					"name": "Vltava Voltage",
+					"role": "DJ",
+					"country": "Czech Republic",
+					"tags": {
+						"tag": [
+							"Techno",
+							"House"
+						]
+					},
+					"_id": "p002"
+				},
+				{
+					"name": "Midnight Atlas",
+					"role": "Live Act",
+					"country": "Germany",
+					"tags": {
+						"tag": [
+							"Trance",
+							"Electronic"
+						]
+					},
+					"_id": "p003"
+				},
+				{
+					"name": "Neon Orchard",
+					"role": "DJ",
+					"country": "Netherlands",
+					"tags": {
+						"tag": "Drum & Bass"
+					},
+					"_id": "p004"
+				},
+				{
+					"name": "Iron Fairy",
+					"role": "DJ",
+					"country": "France",
+					"tags": {
+						"tag": "Hardstyle"
+					},
+					"_id": "p005"
+				},
+				{
+					"name": "Crystal Borough",
+					"role": "DJ",
+					"country": "United Kingdom",
+					"tags": {
+						"tag": [
+							"House",
+							"EDM"
+						]
+					},
+					"_id": "p006"
+				},
+				{
+					"name": "Aurora Circuit",
+					"role": "DJ",
+					"country": "Sweden",
+					"tags": {
+						"tag": [
+							"Trance",
+							"EDM"
+						]
+					},
+					"_id": "p007"
+				},
+				{
+					"name": "Prague Skyline",
+					"role": "Live Act",
+					"country": "Czech Republic",
+					"tags": {
+						"tag": [
+							"Electronic",
+							"Techno"
+						]
+					},
+					"_id": "p008"
+				},
+				{
+					"name": "Velvet Reactor",
+					"role": "DJ",
+					"country": "Austria",
+					"tags": {
+						"tag": "Techno"
+					},
+					"_id": "p009"
+				},
+				{
+					"name": "Golden Rave",
+					"role": "DJ",
+					"country": "Italy",
+					"tags": {
+						"tag": "EDM"
+					},
+					"_id": "p010"
+				},
+				{
+					"name": "Starlit Harbour",
+					"role": "DJ",
+					"country": "Spain",
+					"tags": {
+						"tag": [
+							"House",
+							"Progressive House"
+						]
+					},
+					"_id": "p011"
+				},
+				{
+					"name": "Echo Cathedral",
+					"role": "Live Act",
+					"country": "Poland",
+					"tags": {
+						"tag": "Trance"
+					},
+					"_id": "p012"
+				},
+				{
+					"name": "Nova Lantern",
+					"role": "DJ",
+					"country": "Denmark",
+					"tags": {
+						"tag": [
+							"Techno",
+							"EDM"
+						]
+					},
+					"_id": "p013"
+				},
+				{
+					"name": "Basement Comet",
+					"role": "DJ",
+					"country": "Ireland",
+					"tags": {
+						"tag": "Drum & Bass"
+					},
+					"_id": "p014"
+				},
+				{
+					"name": "Steel Unicorn",
+					"role": "DJ",
+					"country": "Belgium",
+					"tags": {
+						"tag": [
+							"Hardstyle",
+							"EDM"
+						]
+					},
+					"_id": "p015"
+				},
+				{
+					"name": "Riverlight",
+					"role": "DJ",
+					"country": "Hungary",
+					"tags": {
+						"tag": "House"
+					},
+					"_id": "p016"
+				},
+				{
+					"name": "Obsidian Bloom",
+					"role": "DJ",
+					"country": "Germany",
+					"tags": {
+						"tag": "Techno"
+					},
+					"_id": "p017"
+				},
+				{
+					"name": "Pulse Architect",
+					"role": "Live Act",
+					"country": "Netherlands",
+					"tags": {
+						"tag": [
+							"Electronic",
+							"EDM"
+						]
+					},
+					"_id": "p018"
+				},
+				{
+					"name": "Trance Scribe",
+					"role": "DJ",
+					"country": "Switzerland",
+					"tags": {
+						"tag": "Trance"
+					},
+					"_id": "p019"
+				},
+				{
+					"name": "Night Bazaar",
+					"role": "DJ",
+					"country": "Turkey",
+					"tags": {
+						"tag": [
+							"EDM",
+							"House"
+						]
+					},
+					"_id": "p020"
+				},
+				{
+					"name": "Silver Compass",
+					"role": "DJ",
+					"country": "Norway",
+					"tags": {
+						"tag": "Progressive House"
+					},
+					"_id": "p021"
+				},
+				{
+					"name": "Thunder Mosaic",
+					"role": "DJ",
+					"country": "Finland",
+					"tags": {
+						"tag": "Hardstyle"
+					},
+					"_id": "p022"
+				},
+				{
+					"name": "Electric Folklore",
+					"role": "Live Act",
+					"country": "Czech Republic",
+					"tags": {
+						"tag": [
+							"Electronic",
+							"House"
+						]
+					},
+					"_id": "p023"
+				},
+				{
+					"name": "Neon Sparrow",
+					"role": "DJ",
+					"country": "Portugal",
+					"tags": {
+						"tag": "EDM"
+					},
+					"_id": "p024"
+				},
+				{
+					"name": "Subway Siren",
+					"role": "DJ",
+					"country": "United Kingdom",
+					"tags": {
+						"tag": "Drum & Bass"
+					},
+					"_id": "p025"
+				},
+				{
+					"name": "Prism Driver",
+					"role": "DJ",
+					"country": "France",
+					"tags": {
+						"tag": [
+							"Techno",
+							"Trance"
+						]
+					},
+					"_id": "p026"
+				},
+				{
+					"name": "Rooftop Mirage",
+					"role": "DJ",
+					"country": "Spain",
+					"tags": {
+						"tag": "House"
+					},
+					"_id": "p027"
+				},
+				{
+					"name": "Cosmic Locksmith",
+					"role": "Live Act",
+					"country": "Germany",
+					"tags": {
+						"tag": [
+							"Electronic",
+							"Techno"
+						]
+					},
+					"_id": "p028"
+				},
+				{
+					"name": "Amber Frequency",
+					"role": "DJ",
+					"country": "Netherlands",
+					"tags": {
+						"tag": [
+							"EDM",
+							"Progressive House"
+						]
+					},
+					"_id": "p029"
+				},
+				{
+					"name": "Hardwave Herald",
+					"role": "DJ",
+					"country": "Italy",
+					"tags": {
+						"tag": "Hardstyle"
+					},
+					"_id": "p030"
+				},
+				{
+					"name": "Midtown Photon",
+					"role": "DJ",
+					"country": "Austria",
+					"tags": {
+						"tag": "Techno"
+					},
+					"_id": "p031"
+				},
+				{
+					"name": "Blue Cathedral",
+					"role": "DJ",
+					"country": "Poland",
+					"tags": {
+						"tag": [
+							"Trance",
+							"EDM"
+						]
+					},
+					"_id": "p032"
+				},
+				{
+					"name": "Velvet Static",
+					"role": "DJ",
+					"country": "Sweden",
+					"tags": {
+						"tag": "House"
+					},
+					"_id": "p033"
+				},
+				{
+					"name": "Arcade Panther",
+					"role": "DJ",
+					"country": "Denmark",
+					"tags": {
+						"tag": "Drum & Bass"
+					},
+					"_id": "p034"
+				},
+				{
+					"name": "Orbit Mason",
+					"role": "Live Act",
+					"country": "Switzerland",
+					"tags": {
+						"tag": [
+							"Electronic",
+							"EDM"
+						]
+					},
+					"_id": "p035"
+				},
+				{
+					"name": "Neon Alchemist",
+					"role": "DJ",
+					"country": "Belgium",
+					"tags": {
+						"tag": [
+							"Techno",
+							"House"
+						]
+					},
+					"_id": "p036"
+				},
+				{
+					"name": "Tramline Titan",
+					"role": "DJ",
+					"country": "Czech Republic",
+					"tags": {
+						"tag": "EDM"
+					},
+					"_id": "p037"
+				},
+				{
+					"name": "Shadow Carousel",
+					"role": "DJ",
+					"country": "France",
+					"tags": {
+						"tag": [
+							"Hardstyle",
+							"EDM"
+						]
+					},
+					"_id": "p038"
+				},
+				{
+					"name": "Pulse Nomad",
+					"role": "DJ",
+					"country": "Hungary",
+					"tags": {
+						"tag": [
+							"Progressive House",
+							"House"
+						]
+					},
+					"_id": "p039"
+				},
+				{
+					"name": "Basement Aurora",
+					"role": "DJ",
+					"country": "Ireland",
+					"tags": {
+						"tag": "Drum & Bass"
+					},
+					"_id": "p040"
+				},
+				{
+					"name": "Gilded Circuit",
+					"role": "DJ",
+					"country": "Portugal",
+					"tags": {
+						"tag": "Techno"
+					},
+					"_id": "p041"
+				},
+				{
+					"name": "Starlight Syndicate",
+					"role": "Live Act",
+					"country": "United Kingdom",
+					"tags": {
+						"tag": [
+							"Electronic",
+							"Trance"
+						]
+					},
+					"_id": "p042"
+				},
+				{
+					"name": "River Rune",
+					"role": "DJ",
+					"country": "Norway",
+					"tags": {
+						"tag": [
+							"House",
+							"EDM"
+						]
+					},
+					"_id": "p043"
+				},
+				{
+					"name": "Neon Basilica",
+					"role": "DJ",
+					"country": "Spain",
+					"tags": {
+						"tag": [
+							"EDM",
+							"Progressive House"
+						]
+					},
+					"_id": "p044"
+				},
+				{
+					"name": "Quantum Fisher",
+					"role": "DJ",
+					"country": "Germany",
+					"tags": {
+						"tag": [
+							"Techno",
+							"EDM"
+						]
+					},
+					"_id": "p045"
+				},
+				{
+					"name": "Hardstyle Halo",
+					"role": "DJ",
+					"country": "Netherlands",
+					"tags": {
+						"tag": "Hardstyle"
+					},
+					"_id": "p046"
+				},
+				{
+					"name": "Violet Overdrive",
+					"role": "DJ",
+					"country": "Italy",
+					"tags": {
+						"tag": "Trance"
+					},
+					"_id": "p047"
+				},
+				{
+					"name": "Neon Quill",
+					"role": "Live Act",
+					"country": "France",
+					"tags": {
+						"tag": [
+							"Electronic",
+							"House"
+						]
+					},
+					"_id": "p048"
+				},
+				{
+					"name": "Basement Voyager",
+					"role": "DJ",
+					"country": "Poland",
+					"tags": {
+						"tag": "Drum & Bass"
+					},
+					"_id": "p049"
+				},
+				{
+					"name": "Prism Empress",
+					"role": "DJ",
+					"country": "Belgium",
+					"tags": {
+						"tag": [
+							"EDM",
+							"House"
+						]
+					},
+					"_id": "p050"
+				},
+				{
+					"name": "Citylight Operator",
+					"role": "DJ",
+					"country": "Czech Republic",
+					"tags": {
+						"tag": "Techno"
+					},
+					"_id": "p051"
+				},
+				{
+					"name": "Trance Foundry",
+					"role": "DJ",
+					"country": "Sweden",
+					"tags": {
+						"tag": [
+							"Trance",
+							"EDM"
+						]
+					},
+					"_id": "p052"
+				},
+				{
+					"name": "Neon Monarch",
+					"role": "DJ",
+					"country": "Denmark",
+					"tags": {
+						"tag": [
+							"House",
+							"Progressive House"
+						]
+					},
+					"_id": "p053"
+				},
+				{
+					"name": "Orbit Undertow",
+					"role": "DJ",
+					"country": "Norway",
+					"tags": {
+						"tag": "Drum & Bass"
+					},
+					"_id": "p054"
+				},
+				{
+					"name": "Hardwave Oracle",
+					"role": "DJ",
+					"country": "Netherlands",
+					"tags": {
+						"tag": [
+							"Hardstyle",
+							"EDM"
+						]
+					},
+					"_id": "p055"
+				},
+				{
+					"name": "Velvet Chronos",
+					"role": "Live Act",
+					"country": "Germany",
+					"tags": {
+						"tag": [
+							"Electronic",
+							"Techno"
+						]
+					},
+					"_id": "p056"
+				},
+				{
+					"name": "Amber Skyline",
+					"role": "DJ",
+					"country": "Austria",
+					"tags": {
+						"tag": "EDM"
+					},
+					"_id": "p057"
+				},
+				{
+					"name": "Neon Tesseract",
+					"role": "DJ",
+					"country": "Switzerland",
+					"tags": {
+						"tag": [
+							"Techno",
+							"House"
+						]
+					},
+					"_id": "p058"
+				},
+				{
+					"name": "Midnight Carousel",
+					"role": "DJ",
+					"country": "United Kingdom",
+					"tags": {
+						"tag": [
+							"Trance",
+							"Progressive House"
+						]
+					},
+					"_id": "p059"
+				},
+				{
+					"name": "Finale Phoenix",
+					"role": "DJ",
+					"country": "Belgium",
+					"tags": {
+						"tag": [
+							"EDM",
+							"House"
+						]
+					},
+					"_id": "p060"
+				}
+			]
+		},
+		"programme": {
+			"event": [
+				{
+					"start": "14:00",
+					"end": "15:00",
+					"type": "Performance",
+					"title": "Opening Pulse",
+					"performers": {
+						"performerRef": {
+							"_ref": "p001"
+						}
+					},
+					"_id": "e001",
+					"_date": "2026-07-24",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "15:00",
+					"end": "16:00",
+					"type": "Performance",
+					"title": "Astral Lift",
+					"performers": {
+						"performerRef": {
+							"_ref": "p002"
+						}
+					},
+					"_id": "e002",
+					"_date": "2026-07-24",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "16:00",
+					"end": "17:00",
+					"type": "Performance",
+					"title": "Skyline Drive",
+					"performers": {
+						"performerRef": {
+							"_ref": "p003"
+						}
+					},
+					"_id": "e003",
+					"_date": "2026-07-24",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "17:00",
+					"end": "18:00",
+					"type": "Performance",
+					"title": "Dream Gate",
+					"performers": {
+						"performerRef": {
+							"_ref": "p004"
+						}
+					},
+					"_id": "e004",
+					"_date": "2026-07-24",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "18:00",
+					"end": "19:00",
+					"type": "Performance",
+					"title": "Golden Hour Rave",
+					"performers": {
+						"performerRef": {
+							"_ref": "p005"
+						}
+					},
+					"_id": "e005",
+					"_date": "2026-07-24",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "19:00",
+					"end": "20:00",
+					"type": "Performance",
+					"title": "Orbit Anthem",
+					"performers": {
+						"performerRef": {
+							"_ref": "p006"
+						}
+					},
+					"_id": "e006",
+					"_date": "2026-07-24",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "20:00",
+					"end": "21:00",
+					"type": "Performance",
+					"title": "Starlit Mainstage",
+					"performers": {
+						"performerRef": {
+							"_ref": "p007"
+						}
+					},
+					"_id": "e007",
+					"_date": "2026-07-24",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "21:00",
+					"end": "22:00",
+					"type": "Performance",
+					"title": "Velvet Peak",
+					"performers": {
+						"performerRef": {
+							"_ref": "p008"
+						}
+					},
+					"_id": "e008",
+					"_date": "2026-07-24",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "22:00",
+					"end": "23:00",
+					"type": "Performance",
+					"title": "Midnight Crown",
+					"performers": {
+						"performerRef": {
+							"_ref": "p009"
+						}
+					},
+					"_id": "e009",
+					"_date": "2026-07-24",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "23:00",
+					"end": "00:00",
+					"type": "Performance",
+					"title": "Day 1 Closing",
+					"performers": {
+						"performerRef": {
+							"_ref": "p010"
+						}
+					},
+					"_id": "e010",
+					"_date": "2026-07-24",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "14:00",
+					"end": "15:00",
+					"type": "Performance",
+					"title": "Neon Warmup",
+					"performers": {
+						"performerRef": {
+							"_ref": "p011"
+						}
+					},
+					"_id": "e011",
+					"_date": "2026-07-24",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "15:00",
+					"end": "16:00",
+					"type": "Performance",
+					"title": "Basement Echo",
+					"performers": {
+						"performerRef": {
+							"_ref": "p012"
+						}
+					},
+					"_id": "e012",
+					"_date": "2026-07-24",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "16:00",
+					"end": "17:00",
+					"type": "Performance",
+					"title": "Laser Alley",
+					"performers": {
+						"performerRef": {
+							"_ref": "p013"
+						}
+					},
+					"_id": "e013",
+					"_date": "2026-07-24",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "17:00",
+					"end": "18:00",
+					"type": "Performance",
+					"title": "Bass Tunnel",
+					"performers": {
+						"performerRef": {
+							"_ref": "p014"
+						}
+					},
+					"_id": "e014",
+					"_date": "2026-07-24",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "18:00",
+					"end": "19:00",
+					"type": "Performance",
+					"title": "Hard Neon Ritual",
+					"performers": {
+						"performerRef": {
+							"_ref": "p015"
+						}
+					},
+					"_id": "e015",
+					"_date": "2026-07-24",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "19:00",
+					"end": "20:00",
+					"type": "Performance",
+					"title": "Underground Current",
+					"performers": {
+						"performerRef": {
+							"_ref": "p016"
+						}
+					},
+					"_id": "e016",
+					"_date": "2026-07-24",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "20:00",
+					"end": "21:00",
+					"type": "Performance",
+					"title": "Obsidian Drops",
+					"performers": {
+						"performerRef": {
+							"_ref": "p017"
+						}
+					},
+					"_id": "e017",
+					"_date": "2026-07-24",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "21:00",
+					"end": "22:00",
+					"type": "Performance",
+					"title": "Pulse Workshop",
+					"performers": {
+						"performerRef": {
+							"_ref": "p018"
+						}
+					},
+					"_id": "e018",
+					"_date": "2026-07-24",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "22:00",
+					"end": "23:00",
+					"type": "Performance",
+					"title": "Trance Chamber",
+					"performers": {
+						"performerRef": {
+							"_ref": "p019"
+						}
+					},
+					"_id": "e019",
+					"_date": "2026-07-24",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "23:00",
+					"end": "00:00",
+					"type": "Performance",
+					"title": "Neon Closing",
+					"performers": {
+						"performerRef": {
+							"_ref": "p020"
+						}
+					},
+					"_id": "e020",
+					"_date": "2026-07-24",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "14:00",
+					"end": "15:00",
+					"type": "Performance",
+					"title": "Day 2 Rise",
+					"performers": {
+						"performerRef": {
+							"_ref": "p021"
+						}
+					},
+					"_id": "e021",
+					"_date": "2026-07-25",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "15:00",
+					"end": "16:00",
+					"type": "Performance",
+					"title": "Thunder Bloom",
+					"performers": {
+						"performerRef": {
+							"_ref": "p022"
+						}
+					},
+					"_id": "e022",
+					"_date": "2026-07-25",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "16:00",
+					"end": "17:00",
+					"type": "Performance",
+					"title": "Electric Folklore Live",
+					"performers": {
+						"performerRef": {
+							"_ref": "p023"
+						}
+					},
+					"_id": "e023",
+					"_date": "2026-07-25",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "17:00",
+					"end": "18:00",
+					"type": "Performance",
+					"title": "Solar Glide",
+					"performers": {
+						"performerRef": {
+							"_ref": "p024"
+						}
+					},
+					"_id": "e024",
+					"_date": "2026-07-25",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "18:00",
+					"end": "19:00",
+					"type": "Performance",
+					"title": "Moonlit Engine",
+					"performers": {
+						"performerRef": {
+							"_ref": "p025"
+						}
+					},
+					"_id": "e025",
+					"_date": "2026-07-25",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "19:00",
+					"end": "20:00",
+					"type": "Performance",
+					"title": "Prism Ascend",
+					"performers": {
+						"performerRef": {
+							"_ref": "p026"
+						}
+					},
+					"_id": "e026",
+					"_date": "2026-07-25",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "20:00",
+					"end": "21:00",
+					"type": "Performance",
+					"title": "Rooftop Anthem",
+					"performers": {
+						"performerRef": {
+							"_ref": "p027"
+						}
+					},
+					"_id": "e027",
+					"_date": "2026-07-25",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "21:00",
+					"end": "22:00",
+					"type": "Performance",
+					"title": "Cosmic Keys",
+					"performers": {
+						"performerRef": {
+							"_ref": "p028"
+						}
+					},
+					"_id": "e028",
+					"_date": "2026-07-25",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "22:00",
+					"end": "23:00",
+					"type": "Performance",
+					"title": "Amber Headline",
+					"performers": {
+						"performerRef": {
+							"_ref": "p029"
+						}
+					},
+					"_id": "e029",
+					"_date": "2026-07-25",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "23:00",
+					"end": "00:00",
+					"type": "Performance",
+					"title": "Day 2 Closing",
+					"performers": {
+						"performerRef": {
+							"_ref": "p030"
+						}
+					},
+					"_id": "e030",
+					"_date": "2026-07-25",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "14:00",
+					"end": "15:00",
+					"type": "Performance",
+					"title": "Neon Daylight",
+					"performers": {
+						"performerRef": {
+							"_ref": "p031"
+						}
+					},
+					"_id": "e031",
+					"_date": "2026-07-25",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "15:00",
+					"end": "16:00",
+					"type": "Performance",
+					"title": "Blue Vault",
+					"performers": {
+						"performerRef": {
+							"_ref": "p032"
+						}
+					},
+					"_id": "e032",
+					"_date": "2026-07-25",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "16:00",
+					"end": "17:00",
+					"type": "Performance",
+					"title": "Velvet Static Session",
+					"performers": {
+						"performerRef": {
+							"_ref": "p033"
+						}
+					},
+					"_id": "e033",
+					"_date": "2026-07-25",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "17:00",
+					"end": "18:00",
+					"type": "Performance",
+					"title": "Arcade Bassline",
+					"performers": {
+						"performerRef": {
+							"_ref": "p034"
+						}
+					},
+					"_id": "e034",
+					"_date": "2026-07-25",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "18:00",
+					"end": "19:00",
+					"type": "Performance",
+					"title": "Orbit Live",
+					"performers": {
+						"performerRef": {
+							"_ref": "p035"
+						}
+					},
+					"_id": "e035",
+					"_date": "2026-07-25",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "19:00",
+					"end": "20:00",
+					"type": "Performance",
+					"title": "Neon Alchemy",
+					"performers": {
+						"performerRef": {
+							"_ref": "p036"
+						}
+					},
+					"_id": "e036",
+					"_date": "2026-07-25",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "20:00",
+					"end": "21:00",
+					"type": "Performance",
+					"title": "Tramline Rush",
+					"performers": {
+						"performerRef": {
+							"_ref": "p037"
+						}
+					},
+					"_id": "e037",
+					"_date": "2026-07-25",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "21:00",
+					"end": "22:00",
+					"type": "Performance",
+					"title": "Shadow Carousel",
+					"performers": {
+						"performerRef": {
+							"_ref": "p038"
+						}
+					},
+					"_id": "e038",
+					"_date": "2026-07-25",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "22:00",
+					"end": "23:00",
+					"type": "Performance",
+					"title": "Nomad Night",
+					"performers": {
+						"performerRef": {
+							"_ref": "p039"
+						}
+					},
+					"_id": "e039",
+					"_date": "2026-07-25",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "23:00",
+					"end": "00:00",
+					"type": "Performance",
+					"title": "Underground Closing",
+					"performers": {
+						"performerRef": {
+							"_ref": "p040"
+						}
+					},
+					"_id": "e040",
+					"_date": "2026-07-25",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "14:00",
+					"end": "15:00",
+					"type": "Performance",
+					"title": "Final Day Opening",
+					"performers": {
+						"performerRef": {
+							"_ref": "p041"
+						}
+					},
+					"_id": "e041",
+					"_date": "2026-07-26",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "15:00",
+					"end": "16:00",
+					"type": "Performance",
+					"title": "Starlight Live",
+					"performers": {
+						"performerRef": {
+							"_ref": "p042"
+						}
+					},
+					"_id": "e042",
+					"_date": "2026-07-26",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "16:00",
+					"end": "17:00",
+					"type": "Performance",
+					"title": "River Rune Groove",
+					"performers": {
+						"performerRef": {
+							"_ref": "p043"
+						}
+					},
+					"_id": "e043",
+					"_date": "2026-07-26",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "17:00",
+					"end": "18:00",
+					"type": "Performance",
+					"title": "Neon Basilica",
+					"performers": {
+						"performerRef": {
+							"_ref": "p044"
+						}
+					},
+					"_id": "e044",
+					"_date": "2026-07-26",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "18:00",
+					"end": "19:00",
+					"type": "Performance",
+					"title": "Quantum Peak",
+					"performers": {
+						"performerRef": {
+							"_ref": "p045"
+						}
+					},
+					"_id": "e045",
+					"_date": "2026-07-26",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "19:00",
+					"end": "20:00",
+					"type": "Performance",
+					"title": "Hardstyle Halo",
+					"performers": {
+						"performerRef": {
+							"_ref": "p046"
+						}
+					},
+					"_id": "e046",
+					"_date": "2026-07-26",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "20:00",
+					"end": "21:00",
+					"type": "Performance",
+					"title": "Violet Overdrive",
+					"performers": {
+						"performerRef": {
+							"_ref": "p047"
+						}
+					},
+					"_id": "e047",
+					"_date": "2026-07-26",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "21:00",
+					"end": "22:00",
+					"type": "Performance",
+					"title": "Neon Quill Live",
+					"performers": {
+						"performerRef": {
+							"_ref": "p048"
+						}
+					},
+					"_id": "e048",
+					"_date": "2026-07-26",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "22:00",
+					"end": "23:00",
+					"type": "Performance",
+					"title": "Basement Voyager",
+					"performers": {
+						"performerRef": {
+							"_ref": "p049"
+						}
+					},
+					"_id": "e049",
+					"_date": "2026-07-26",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "23:00",
+					"end": "00:00",
+					"type": "Performance",
+					"title": "Final Mainstage Closing",
+					"performers": {
+						"performerRef": {
+							"_ref": "p050"
+						}
+					},
+					"_id": "e050",
+					"_date": "2026-07-26",
+					"_venueRef": "v1"
+				},
+				{
+					"start": "14:00",
+					"end": "15:00",
+					"type": "Performance",
+					"title": "Neon Day 3 Warmup",
+					"performers": {
+						"performerRef": {
+							"_ref": "p051"
+						}
+					},
+					"_id": "e051",
+					"_date": "2026-07-26",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "15:00",
+					"end": "16:00",
+					"type": "Performance",
+					"title": "Trance Foundry",
+					"performers": {
+						"performerRef": {
+							"_ref": "p052"
+						}
+					},
+					"_id": "e052",
+					"_date": "2026-07-26",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "16:00",
+					"end": "17:00",
+					"type": "Performance",
+					"title": "Neon Monarch",
+					"performers": {
+						"performerRef": {
+							"_ref": "p053"
+						}
+					},
+					"_id": "e053",
+					"_date": "2026-07-26",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "17:00",
+					"end": "18:00",
+					"type": "Performance",
+					"title": "Orbit Undertow",
+					"performers": {
+						"performerRef": {
+							"_ref": "p054"
+						}
+					},
+					"_id": "e054",
+					"_date": "2026-07-26",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "18:00",
+					"end": "19:00",
+					"type": "Performance",
+					"title": "Hardwave Oracle",
+					"performers": {
+						"performerRef": {
+							"_ref": "p055"
+						}
+					},
+					"_id": "e055",
+					"_date": "2026-07-26",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "19:00",
+					"end": "20:00",
+					"type": "Performance",
+					"title": "Velvet Chronos Live",
+					"performers": {
+						"performerRef": {
+							"_ref": "p056"
+						}
+					},
+					"_id": "e056",
+					"_date": "2026-07-26",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "20:00",
+					"end": "21:00",
+					"type": "Performance",
+					"title": "Amber Skyline",
+					"performers": {
+						"performerRef": {
+							"_ref": "p057"
+						}
+					},
+					"_id": "e057",
+					"_date": "2026-07-26",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "21:00",
+					"end": "22:00",
+					"type": "Performance",
+					"title": "Neon Tesseract",
+					"performers": {
+						"performerRef": {
+							"_ref": "p058"
+						}
+					},
+					"_id": "e058",
+					"_date": "2026-07-26",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "22:00",
+					"end": "23:00",
+					"type": "Performance",
+					"title": "Midnight Carousel",
+					"performers": {
+						"performerRef": {
+							"_ref": "p059"
+						}
+					},
+					"_id": "e059",
+					"_date": "2026-07-26",
+					"_venueRef": "v2"
+				},
+				{
+					"start": "23:00",
+					"end": "00:00",
+					"type": "Performance",
+					"title": "Festival Finale",
+					"performers": {
+						"performerRef": {
+							"_ref": "p060"
+						}
+					},
+					"_id": "e060",
+					"_date": "2026-07-26",
+					"_venueRef": "v2"
+				}
+			]
+		},
+		"_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+		"_id": "prague-dreamland-2026",
+		"_year": "2026",
+		"_xsi:noNamespaceSchemaLocation": "festival.xsd"
+	}
+}
